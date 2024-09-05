@@ -14,7 +14,7 @@ This is a simple CSV Editor built using Python's `Tkinter` library. It allows us
 
 ## Requirements
 
-- Python 3.x
+- Python 3.8
 - Tkinter (`pip install tk`)
 - Pandas (`pip install pandas`)
 
@@ -22,7 +22,8 @@ This is a simple CSV Editor built using Python's `Tkinter` library. It allows us
 
 1. Clone this repository:
     ```bash
-    git clone https://github.com/your-username/csv-editor-app.git
+    git clone https://github.com/MinhaulMahmudCSV-Editor-using-python-TKINTER.git
+.git
     ```
 2. Navigate to the project directory:
     ```bash
@@ -58,4 +59,4 @@ This project is licensed under the MIT License. See the `LICENSE` file for more 
 
 ---
 
-**Author**: _Your Name_  
+**Author**: _Minhazul Mahmud_  
