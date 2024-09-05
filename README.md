@@ -45,9 +45,8 @@ This is a simple CSV Editor built using Python's `Tkinter` library. It allows us
 
 ## Screenshots
 
-You can find app interface screenshots in the folder [App Interface Preview](App%20Interface%20Preview/).
-
-![CSV Editor Preview](App%20Interface%20Preview/screenshot1.png)  
+You can find app interface screenshots in the folder [app interface preview](app%20interface%20preview/).
+  
 
 ## Contributing
 
